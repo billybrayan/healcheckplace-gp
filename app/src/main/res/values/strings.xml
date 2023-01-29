@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Medical Monitoring Application</string>
+    <string name="title_activity_map">Map</string>
+    <string name="hyperlink" />
+    <string name="about_us">About Us</string>
+    <string name="this_heal_check_place_mobile_app_is_designed_for_public_society_treatment_must_begin_right_away_in_cases_of_emergency_such_as_when_a_person_has_severe_asthma_or_another_respiratory_condition_however_it_must_be_done_using_the_google_account_application_itself_as_a_user_users_sign_in_to_the_mobile_application_using_their_email_as_a_result_the_application_can_show_users_a_for_the_hospital_or_medical_center_closest_to_their_locations_as_well_as_their_current_position_and_marker_gps_data">This Heal Check Place mobile app is designed for public society. Treatment must begin right away in cases of emergency, such as when a person has severe asthma or another respiratory condition. However, it must be done using the Google Account application itself as a user. Users sign in to the mobile application using their email as a result. The application can show users a for the hospital or medical center closest to their locations as well as their current position and marker GPS data.</string>
+    <string name="home">Home</string>
+    <string name="heal_check_place">Heal Check Place</string>
+    <string name="welcome_please_sign_in_first_using_account_by_clicking_the_button_below">WELCOME! PLEASE SIGN IN FIRST USING ACCOUNT BY CLICKING THE BUTTON BELOW</string>
+</resources>

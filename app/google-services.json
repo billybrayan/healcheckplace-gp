@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "85617089550",
+    "project_id": "healcheckplace-e2ff6",
+    "storage_bucket": "healcheckplace-e2ff6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85617089550:android:de2907f41376093dba705f",
+        "android_client_info": {
+          "package_name": "com.example.healcheckplace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85617089550-2vpgikq6f1r9ootl15jspbb86rm444aa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoas6O5nDPTZ8lnd4123wC2QYrHf9_2TQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85617089550-2vpgikq6f1r9ootl15jspbb86rm444aa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

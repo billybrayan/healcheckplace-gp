@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context=".MainActivity">
+
+
+    <TextView
+        android:id="@+id/wel"
+        android:layout_width="276dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/logoo"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="71dp"
+        android:layout_marginTop="306dp"
+        android:fontFamily="sans-serif-medium"
+        android:gravity="center"
+        android:text="@string/welcome_please_sign_in_first_using_account_by_clicking_the_button_below"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/google"
+        android:layout_width="300dp"
+        android:layout_height="100dp"
+        android:layout_below="@+id/wel"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="39dp"
+        android:src="@drawable/google" />
+
+    <ImageView
+        android:id="@+id/logoo"
+        android:layout_width="302dp"
+        android:layout_height="282dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="39dp"
+        android:src="@drawable/logo"
+        android:contentDescription="TODO" />
+
+</RelativeLayout>
